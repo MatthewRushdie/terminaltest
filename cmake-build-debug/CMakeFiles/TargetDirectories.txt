@@ -1,0 +1,3 @@
+/Users/matthewrushdie/Downloads/mygit/terminaltest/cmake-build-debug/CMakeFiles/terminaltest.dir
+/Users/matthewrushdie/Downloads/mygit/terminaltest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/matthewrushdie/Downloads/mygit/terminaltest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
